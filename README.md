@@ -49,3 +49,4 @@ Top Scorer/Team Analysis: Bar charts and tables ranking the Top Teams by win cou
 Match Result Breakdown: A matrix or small multiples view to analyze the distribution of match outcomes (e.g., goals scored in specific stages like the knockout rounds).
 
 🖼️ Screenshots / Demos
+(In a real GitHub repository, you would insert static image files of your Tableau dashboard here, such as:)
